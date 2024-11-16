@@ -4,10 +4,15 @@ This project aims to build a deep learning model for detecting brain tumors from
 🧠 Project Workflow
 
 Data Preparation
+
 Exploratory Data Analysis (EDA)
+
 Data Augmentation
+
 Data Preprocessing
+
 Data Splitting
+
 Flask Application
 
 🛠️ Tech Stack
