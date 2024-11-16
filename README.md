@@ -23,10 +23,17 @@ Apply techniques like unfreezing layers and adjusting learning rates to improve 
 Develop a Flask-based web application to provide a user-friendly interface for uploading MRI scans and getting predictions.
 
 🛠️ Tech Stack
+
 Python: Core programming language used for data processing and model building.
+
 OpenCV: For image preprocessing and transformations.
+
 TensorFlow / Keras: For building and training the CNN model.
+
 Flask: Backend framework for developing the web application.
+
 Jupyter Notebook: For exploratory data analysis and iterative model building.
+
 Pandas & NumPy: For data manipulation and numerical computations.
+
 Matplotlib & Seaborn: For visualizing data insights and model performance.
