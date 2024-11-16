@@ -2,25 +2,13 @@ Brain Tumor Detection using Deep Learning
 This project aims to build a deep learning model for detecting brain tumors from MRI scan images. The goal is to develop a Convolutional Neural Network (CNN) model that can accurately classify brain images as tumor or non-tumor, and further deploy it as a web application using Flask.
 
 🧠 Project Workflow
-1. Data Preparation
-The dataset of brain MRI scans is sourced from Kaggle.
-It includes images labeled as tumor and no tumor.
-2. Exploratory Data Analysis (EDA)
-Perform analysis to understand data distribution, image characteristics, and class imbalance.
-3. Data Augmentation
-Address the class imbalance issue using augmentation techniques.
-Augmentations include rotation, flipping, and zooming to generate more diverse training data.
-4. Data Preprocessing
-Utilize OpenCV for preprocessing tasks such as resizing, normalization, and grayscale conversion.
-5. Data Splitting
-Split the dataset into three parts: training, validation, and testing sets to ensure robust model evaluation.
-6. Model Building
-Build a Convolutional Neural Network (CNN) model for image classification.
-The architecture includes convolutional layers, pooling layers, and dense layers to extract features and make predictions.
-7. Model Fine-Tuning
-Apply techniques like unfreezing layers and adjusting learning rates to improve the model's accuracy.
-8. Flask Application
-Develop a Flask-based web application to provide a user-friendly interface for uploading MRI scans and getting predictions.
+
+Data Preparation
+Exploratory Data Analysis (EDA)
+Data Augmentation
+Data Preprocessing
+Data Splitting
+Flask Application
 
 🛠️ Tech Stack
 
